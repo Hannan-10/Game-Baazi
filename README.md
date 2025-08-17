@@ -25,4 +25,7 @@ The platform supports both **digital downloads** and **physical product deliveri
 - **ExpressJS** – API Layer  
 - **MongoDB** – Database  
 
+## 🎥 Demo Video  
+👉 [Watch the Demo on YouTube](https://youtu.be/E0Rqdcfw2MQ?si=2jFcWik4z-neIVgk)  
+
 ---
