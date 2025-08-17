@@ -7,6 +7,7 @@
 It provides a seamless shopping experience with **secure transactions**, **real-time order tracking**, and personalized user dashboards.  
 The platform supports both **digital downloads** and **physical product deliveries**.  
 
+![GameBaazi LandingPage](./gb2.png)
 ---
 
 ## ✨ Key Features  
